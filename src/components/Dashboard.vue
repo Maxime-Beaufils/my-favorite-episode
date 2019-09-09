@@ -4,7 +4,7 @@
       <v-col cols="3">
         <MesEpisodes />
       </v-col>
-      <v-col cols="3">
+      <v-col cols="3" >
         <DernierEpisodes />
       </v-col>
       <v-col cols="3">
